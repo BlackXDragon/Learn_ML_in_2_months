@@ -9,17 +9,17 @@ In week 1, try to finish learning Linear Algebra.
 - Learn all the basics of Linear Algebra from 3Blue1Brown channel's playlist: [Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - Learn the more advanced concepts from Gilbert Strang's Lectures on [Linear Algebra in MIT OpenCourseWare](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
 - Search for concepts you don't understand on Wolfram Mathworld
-- If you feel you're not up for completely studying the MIT OCW course, learn the following concepts by searching for them on Wolfram Mathworld, StatTrek and YouTube:
- - LU Decomposition
- - Rank of matrix
- - Eigen values and eigen vectors
- - Echelon form
- - Moore Penrose Pseudoinverse
+- If you feel you're not up for completely studying the MIT OCW course, learn the following concepts by searching for them on Wolfram [Mathworld](http://mathworld.wolfram.com/) and YouTube:
+  - LU Decomposition
+  - Rank of matrix
+  - Eigen values and eigen vectors
+  - Echelon form
+  - Moore Penrose Pseudoinverse
 
 ## Week 2: Calculus and Probability theory
-Week 2 will cover basics of both, Calculus and Probability
+Week 2 will cover basics of both, Calculus and Probability  theory
 - Watch the playlist of 3Blue1Brown: [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- Learn probability theory and random variables from StatTrek: [Probability Tutorial](https://stattrek.com/tutorials/probability-tutorial.aspx)
+- Learn statistics and probability theory from StatTrek: [StatTrek](https://stattrek.com/)
 
 ## Week 3: Algorithms and Introduction to Machine Learning with Python
 - Learn the basics of Algorithm design from the EdX course: [Algorithm Design and Analysis](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x)
