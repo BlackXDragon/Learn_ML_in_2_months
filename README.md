@@ -1,6 +1,5 @@
 # Learn_ML_in_2_months
 In order to be able to finish the concepts within the stipulated time, follow the guidelines:
-- Allocate 2 to 3 hours per day for learning. If you can dedicate more time than that, you'll be able to finish the course in less thanhalf the time.
 - Watch videos in 2x and gradually increase the speed to 3x. Your brain is capable to processing data this fast. A chrome plugin may help you: [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
 - In order to retain everything you learn, make notes as you go.
 - Search Google or YouTube for any terms or concepts you didn't understand and go through the top 3-4 links. If you feel you still don't understand it clearly, search for ELI5 (Explain it Like I'm 5 years old) the concept on reddit.
