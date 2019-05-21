@@ -1,8 +1,5 @@
 # Learn_ML_in_2_months
 In order to be able to finish the concepts within the stipulated time, follow the guidelines:
-- In order to retain everything you learn, make notes as you go.
-- Search Google or YouTube for any terms or concepts you didn't understand and go through the top 3-4 links. If you feel you still don't understand it clearly, search for ELI5 (Explain it Like I'm 5 years old) the concept on reddit.
-- Follow the principles for learning fast from this video by Siraj Raval: [10 Ways to Learn Faster](https://www.youtube.com/watch?v=hKBZjH7Ot2g)
 
 ### Prerequisites
 - Good knowledge in Python
