@@ -5,7 +5,7 @@ In order to be able to finish the concepts within the stipulated time, follow th
 - Good knowledge in Python
 - Working knowledge of Numpy, Pandas and matplotlib (You can learn these at www.pythonprogramming.net)
 
-## Week 1: Linear Algebra and Calculus
+## Week 1: Linear Algebra
 In week 1, try to finish learning Linear Algebra.
 - Learn all the basics of Linear Algebra from 3Blue1Brown channel's playlist: [Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - Learn the more advanced concepts from Gilbert Strang's Lectures on [Linear Algebra in MIT OpenCourseWare](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
@@ -17,10 +17,10 @@ In week 1, try to finish learning Linear Algebra.
  - Echelon form
  - Moore Penrose Pseudoinverse
 
-## Week 2: Calculus and Probability
+## Week 2: Calculus and Probability theory
 Week 2 will cover basics of both, Calculus and Probability
 - Watch the playlist of 3Blue1Brown: [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- Learn probability and random variables from StatTrek: [Probability Tutorial](https://stattrek.com/tutorials/probability-tutorial.aspx)
+- Learn probability theory and random variables from StatTrek: [Probability Tutorial](https://stattrek.com/tutorials/probability-tutorial.aspx)
 
 ## Week 3: Algorithms and Introduction to Machine Learning with Python
 - Learn the basics of Algorithm design from the EdX course: [Algorithm Design and Analysis](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x)
