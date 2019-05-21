@@ -56,6 +56,7 @@ Week 2 will cover basics of both, Calculus and Probability
 - Explore and learn about other ML models
 - Find Kaggle competitions, enroll in them and try using concepts you've learnt till now to get good results.
 - Also try to make your own programs for some of the ideas [here](https://github.com/NirantK/awesome-project-ideas). Remember to try out a variety of problems.
+- Also check out [fast.ai](https://www.fast.ai/) free courses for deep learning.
 
 
 **Have a great time learning!!**
